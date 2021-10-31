@@ -1,0 +1,25 @@
+.orders {
+  background-color: white;
+  padding: 10px 50px;
+  min-height: 100vh;
+
+}
+.orders__heading {
+  text-align: center;
+  padding: 10px 0;
+}
+.no__orders {
+  height: 100vh;
+  overflow:auto;
+  text-align: center;
+  padding-top: 20px;
+  background-color: white;
+}
+.explore__link {
+  cursor: pointer;
+  color: #007185;
+}
+.explore__link:hover {
+  color: darkred;
+  text-decoration: underline;
+}

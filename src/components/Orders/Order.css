@@ -1,0 +1,22 @@
+.order__header {
+  display: flex;
+  border: 1px solid grey;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(255, 214, 221);
+}
+
+.order__id {
+  font-size: 20px;
+}
+.order__detials {
+  margin-left: 20px;
+}
+.order__total {
+  margin-left: auto;
+  margin-right: 50px;
+}
+.order__amount {
+  font-size: 20px;
+  font-weight: 700;
+}

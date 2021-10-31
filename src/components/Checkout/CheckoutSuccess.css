@@ -1,0 +1,13 @@
+.order__success {
+  background-color: white;
+  text-align: center;
+  height: 100vh;
+  padding-top: 20px;
+}
+
+.success__img {
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}

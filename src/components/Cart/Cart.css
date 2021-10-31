@@ -1,0 +1,25 @@
+.cart {
+  display: flex;
+  padding: 20px;
+  height: max-content;
+}
+.cart__left {
+  background-color: white;
+}
+.cart__ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.cart__title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid gray;
+}
+.cart__link {
+  cursor: pointer;
+  color: #007185;
+}
+.cart__link:hover {
+  color: darkred;
+  text-decoration: underline;
+}

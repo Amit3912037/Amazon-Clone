@@ -1,0 +1,35 @@
+.checkout__section {
+  background-color: white;
+
+}
+.address,
+.revieworder {
+  display: flex;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.address__heading,
+.revieworder__heading {
+  flex: 0.2;
+}
+
+.address__details,
+.revieworder__details {
+  flex: 0.8;
+}
+
+.checkout__button {
+  background: #f0c14b;
+  border-radius: 2px;
+  height: 35px;
+  border: 1px solid;
+  margin-right: 40px;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  cursor: pointer;
+}
+
+.checkout__button:hover{
+    background-color: #fce6b0;
+}
